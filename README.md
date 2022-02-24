@@ -1,2 +1,4 @@
 # multiple_regression_model
-Coding idea for running multiple similar regression model and export the results
+
+This is a small coding idea for running multiple similar regression models. 
+The results and the parameters were saved in a list and exported as a txt file.  
